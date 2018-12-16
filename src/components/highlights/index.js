@@ -1,7 +1,7 @@
 import React from "react";
 
-import Description from "./description";
-import Discount from "./discount";
+import Description from "./Description";
+import Discount from "./Discount";
 
 const Highlights = () => {
   return (

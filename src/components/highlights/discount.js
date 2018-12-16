@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import MyButton from "../utils/MyButton";
 
 import Fade from "react-reveal/Fade";
 import Slide from "react-reveal/Slide";
@@ -43,7 +44,12 @@ export default class Discount extends Component {
                 impedit ex! Quos excepturi eaque, possimus, tempore aut
                 distinctio eius officia beatae itaque maiores mollitia!
               </p>
-              <div>button</div>
+              <MyButton
+                text="Purchase Tickets"
+                bck="#ffa800"
+                color="#123123"
+                link="#"
+              />
             </div>
           </Slide>
         </div>
