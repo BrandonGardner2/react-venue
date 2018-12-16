@@ -38,9 +38,7 @@ const VenueInfo = () => {
                     }}
                   />
                   <div className="vn_title">Event Location</div>
-                  <div className="vn_desc">
-                    123 Some Street, Houston, TX 77054
-                  </div>
+                  <div className="vn_desc">1510 Polk St, Houston, TX 77002</div>
                 </div>
               </div>
             </div>
